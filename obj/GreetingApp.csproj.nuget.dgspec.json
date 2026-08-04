@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Nu\\Q12\\PRO250\\GitExercise\\GreetingApp\\GreetingApp.csproj": {}
+    "C:\\Nu\\Q12\\PRO250\\GitExercise\\PRO250_GitExercise\\GreetingApp\\GreetingApp.csproj": {}
   },
   "projects": {
-    "C:\\Nu\\Q12\\PRO250\\GitExercise\\GreetingApp\\GreetingApp.csproj": {
+    "C:\\Nu\\Q12\\PRO250\\GitExercise\\PRO250_GitExercise\\GreetingApp\\GreetingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Nu\\Q12\\PRO250\\GitExercise\\GreetingApp\\GreetingApp.csproj",
+        "projectUniqueName": "C:\\Nu\\Q12\\PRO250\\GitExercise\\PRO250_GitExercise\\GreetingApp\\GreetingApp.csproj",
         "projectName": "GreetingApp",
-        "projectPath": "C:\\Nu\\Q12\\PRO250\\GitExercise\\GreetingApp\\GreetingApp.csproj",
+        "projectPath": "C:\\Nu\\Q12\\PRO250\\GitExercise\\PRO250_GitExercise\\GreetingApp\\GreetingApp.csproj",
         "packagesPath": "C:\\Users\\EavenBall\\.nuget\\packages\\",
-        "outputPath": "C:\\Nu\\Q12\\PRO250\\GitExercise\\GreetingApp\\obj\\",
+        "outputPath": "C:\\Nu\\Q12\\PRO250\\GitExercise\\PRO250_GitExercise\\GreetingApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
