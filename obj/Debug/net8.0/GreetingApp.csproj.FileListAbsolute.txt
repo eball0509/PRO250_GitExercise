@@ -1,0 +1,15 @@
+C:\Nu\Q12\PRO250\GitExercise\PRO250_GitExercise\GreetingApp\bin\Debug\net8.0\GreetingApp.exe
+C:\Nu\Q12\PRO250\GitExercise\PRO250_GitExercise\GreetingApp\bin\Debug\net8.0\GreetingApp.deps.json
+C:\Nu\Q12\PRO250\GitExercise\PRO250_GitExercise\GreetingApp\bin\Debug\net8.0\GreetingApp.runtimeconfig.json
+C:\Nu\Q12\PRO250\GitExercise\PRO250_GitExercise\GreetingApp\bin\Debug\net8.0\GreetingApp.dll
+C:\Nu\Q12\PRO250\GitExercise\PRO250_GitExercise\GreetingApp\bin\Debug\net8.0\GreetingApp.pdb
+C:\Nu\Q12\PRO250\GitExercise\PRO250_GitExercise\GreetingApp\obj\Debug\net8.0\GreetingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nu\Q12\PRO250\GitExercise\PRO250_GitExercise\GreetingApp\obj\Debug\net8.0\GreetingApp.AssemblyInfoInputs.cache
+C:\Nu\Q12\PRO250\GitExercise\PRO250_GitExercise\GreetingApp\obj\Debug\net8.0\GreetingApp.AssemblyInfo.cs
+C:\Nu\Q12\PRO250\GitExercise\PRO250_GitExercise\GreetingApp\obj\Debug\net8.0\GreetingApp.csproj.CoreCompileInputs.cache
+C:\Nu\Q12\PRO250\GitExercise\PRO250_GitExercise\GreetingApp\obj\Debug\net8.0\GreetingApp.sourcelink.json
+C:\Nu\Q12\PRO250\GitExercise\PRO250_GitExercise\GreetingApp\obj\Debug\net8.0\GreetingApp.dll
+C:\Nu\Q12\PRO250\GitExercise\PRO250_GitExercise\GreetingApp\obj\Debug\net8.0\refint\GreetingApp.dll
+C:\Nu\Q12\PRO250\GitExercise\PRO250_GitExercise\GreetingApp\obj\Debug\net8.0\GreetingApp.pdb
+C:\Nu\Q12\PRO250\GitExercise\PRO250_GitExercise\GreetingApp\obj\Debug\net8.0\GreetingApp.genruntimeconfig.cache
+C:\Nu\Q12\PRO250\GitExercise\PRO250_GitExercise\GreetingApp\obj\Debug\net8.0\ref\GreetingApp.dll
