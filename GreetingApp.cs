@@ -1,6 +1,6 @@
 using System;
 
-internal static class GreetingApp
+internal class GreetingApp
 {
     private static void Main()
     {
@@ -23,11 +23,11 @@ internal static class GreetingApp
             switch (choice)
             {
                 case 1:
-                    Console.WriteLine("Hey there! How's it going?");
+                    NonFormal();
                     break;
 
                 case 2:
-                    Console.WriteLine("Good day to you! How do you do?");
+                    Formal();
                     break;
 
                 default:
@@ -37,5 +37,22 @@ internal static class GreetingApp
 
             break;
         }
+    }
+
+    protected static void NonFormal()
+    {
+        string message = "Hey there! How's it going?";
+        
+        if (message == null)
+        {
+            Console.WriteLine("hello friend");
+        }
+
+        Console.WriteLine(message);
+    }
+
+    protected static void Formal()
+    {
+        Console.WriteLine("Good day to you. How do you do?");
     }
 }
