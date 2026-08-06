@@ -14,6 +14,7 @@ internal static class GreetingApp
 
             Console.WriteLine("1. Non Formal");
             Console.WriteLine("2. Formal");
+            Console.WriteLine("3. Time Aware Greeting");
 
             choiceAsString = Console.ReadLine();
 
